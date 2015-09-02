@@ -1,0 +1,14 @@
+{
+  "name": "gulp-svg-sass-uri",
+  "version": "1.0.0",
+  "description": "Gulp plugin to transform SVGs to Sass URIs.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/artit91/gulp-svg-sass-uri.git"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "svgo": "^0.5.6",
+    "through2": "^2.0.0"
+  }
+}
